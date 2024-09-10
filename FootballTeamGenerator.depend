@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1725957088 source:c:\users\ahmet\onedrive\files\03_sonstiges\teamgenerator2\main.cpp
+	<iostream>
+	"Player.h"
+	"Team.h"
+	<vector>
+	<ctime>
+
+1725956333 c:\users\ahmet\onedrive\files\03_sonstiges\teamgenerator2\include\player.h
+	<string>
+	<vector>
+	<iostream>
+
+1725908400 c:\users\ahmet\onedrive\files\03_sonstiges\teamgenerator2\include\team.h
+	"Player.h"
+	<array>
+	<vector>
+	<iostream>
+	<algorithm>
+	<stdexcept>
+
+1725941526 source:c:\users\ahmet\onedrive\files\03_sonstiges\teamgenerator2\src\player.cpp
+	"Player.h"
+
+1725956794 source:c:\users\ahmet\onedrive\files\03_sonstiges\teamgenerator2\src\team.cpp
+	"Team.h"
+
